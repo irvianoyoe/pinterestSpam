@@ -1,7 +1,7 @@
 
 Pinterest Spam tool
 -------------------------------------
-'Copyright 2017, by _Irv'
+Copyright 2017, by _Irv
 
 spam.py : for spaming post
 register.py : for register user
